@@ -7,6 +7,6 @@ button.addEventListener('click', function(){
         window.location = 'p3.html'
     }else{
         alert('Infelizmente você ainda não se recuperou completamente, ou digitou errado, volte e tente novamente')
-        window.location = '/index.html'
+        window.location = './index.html'
     }
 })
